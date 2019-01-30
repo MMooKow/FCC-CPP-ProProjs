@@ -1,0 +1,12 @@
+//I love to code
+#include <iostream>
+
+int main(){
+std::cout << "DDDD     RRRRR\n";
+std::cout << "D    D   R    R\n";
+std::cout << "D    D   R    R\n";
+std::cout << "D    D   RRRRR\n";
+std::cout << "D    D   R   R \n";
+std::cout << "D    D   R     R\n";
+std::cout << "DDDDD    R      R\n";
+}
